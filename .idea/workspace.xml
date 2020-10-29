@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jWC7PppLIvJh1OptWewNZt4KyG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,9 +40,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2021" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603921558483">
+    <state x="2021" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603981427091">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2021" y="343" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603921558483" />
+    <state x="2021" y="343" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603981427091" />
   </component>
 </project>
