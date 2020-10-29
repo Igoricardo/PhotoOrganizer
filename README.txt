@@ -1,16 +1,16 @@
 -------- Photo Organizer --------
 
-OBS: Esta aplicação funciona apenas no Windows. Para utilizarem em suas máquinas, utilizem somente a pasta "Installer" e sigam as instruções preesentes no arquivo "README" também presente detro desta pasta.
+OBS: Esta aplicaÃ§Ã£o funciona apenas no Windows. Para utilizarem em suas mÃ¡quinas, utilizem somente a pasta "Installer" e sigam as instruÃ§Ãµes preesentes no arquivo "README" tambÃ©m presente dentro desta pasta.
 	
 
-Esta aplicação permite que todas os arquivos de imagens presentes dentro de uma pasta qualquer, se organizem
-automáticamente apenas com um clique pelo ano, mês e data que foram tiradas se baseando nas informações presentes nas
+Esta aplicaÃ§Ã£o permite que todas os arquivos de imagens presentes dentro de uma pasta qualquer, se organizem
+automÃ¡ticamente apenas com um clique pelo ano, mÃªs e data que foram tiradas se baseando nas informaÃ§Ãµes presentes nas
 propriedades de cada imagem.
 
-Nesta versão, as extensões que são reconhecidas pelo Photo Organizer são .jpg, .jpeg, .JPG, .JPEG.
+Nesta versÃ£o, as extensÃµes que sÃ£o reconhecidas pelo Photo Organizer sÃ£o .jpg, .jpeg, .JPG, .JPEG.
 
-Neste repositório esta todos os arquivos para que possam ser baixados e aperfeiçados com novas mecânicas, edições. Sintam - se livres para baixa-lo. 
+Neste repositÃ³rio esta todos os arquivos para que possam ser baixados e aperfeiÃ§ados com novas mecÃ¢nicas, ediÃ§Ãµes. Sintam - se livres para baixa-lo. 
 
-Esta App foi criada e apresentada pelos professores do canal Código Fonte TV "https://www.youtube.com/user/codigofontetv"
-onde apliquei algumas mudanças para instalação da App e estou realizando periodicamente mais algumas mudanças personalizando e adicionando coisas novas.
+Esta App foi criada e apresentada pelos professores do canal CÃ³digo Fonte TV "https://www.youtube.com/user/codigofontetv"
+onde apliquei algumas mudanÃ§as para instalaÃ§Ã£o da App e estou realizando periodicamente mais algumas mudanÃ§as personalizando e adicionando coisas novas.
 
