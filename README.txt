@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/Igoricardo/PhotoOrganizer.svg)](http://hits.dwyl.com/Igoricardo/PhotoOrganizer)
+
+
 -------- Photo Organizer --------
 
 OBS: Esta aplicação funciona apenas no Windows. Para utilizarem em suas máquinas, utilizem somente a pasta "Installer" e sigam as instruções preesentes no arquivo "README" também presente dentro desta pasta.
